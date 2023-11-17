@@ -1,0 +1,114 @@
+{% extends 'core/base.html'%}
+{% load static%}
+{% block title %} Recommend {% endblock title %}
+{% block content %}
+<section class="h-50 gradient-form">
+  <div class="container py-5 h-100">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col-xl-10">
+        <div class="card rounded-3 text-black">
+          <div class="row g-0">
+            <div class="col-lg-6">
+              <div class="card-body p-md-5 mx-md-4">
+                <div class="text-center">
+                  <img src="https://img.freepik.com/free-vector/food-drink-hand-drawn-flat-healthy-food-logo_23-2149632253.jpg?w=740&t=st=1694686244~exp=1694686844~hmac=e277b65fce20e0ed8d8abbd6e61c1ec823a779ca5b587be114ed31f80a5f1cac"
+                    style="width: 150px;" alt="logo">
+                  <h6 class="mt-1 mb-2">Looking for top-ranked food items similar to your choice ? </h6>
+                    <h5 class="mt-1 ">  Discover Delicious Recommendations Based on Your Favorites!" </h5>
+                </div>
+
+                
+                <form method="post" action="{% url 'recommend_food' %}">
+                
+                      {% csrf_token %}
+                      <input name="food_user_input" type="text" class="form-control"><br>
+                      <input type="submit" class="btn btn-lg btn-success">
+                  </form>
+
+              </div>
+            </div>
+            <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
+              <div class="px-3 py-4 p-md-5 mx-md-4">
+                <img class="img-fluid rounded" src="https://media.gettyimages.com/id/1327834718/photo/overhead-view-of-young-woman-taking-photos-of-scrumptious-and-delicious-meal-on-dining-table.jpg?s=612x612&w=0&k=20&c=hWb0tGJquBzOCoFQ3eqL0xcLshc5XS9vx94fV8Tt5LI=" alt="">
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section style="background-color:#fff;">
+  <div class="container py-5">
+    <div class="row">        
+
+{% if data %}
+{% for i in data %}
+
+      <div class="col-md-6 col-lg-4 py-2 mb-4 mb-md-0">
+        <div class="card">
+          <div class="d-flex justify-content-between p-3">
+            
+            <div
+              class="bg-info rounded-circle d-flex align-items-center justify-content-center shadow-1-strong"
+              style="width: 100px; height: 100px;">
+              <img src="https://img.freepik.com/free-vector/food-drink-hand-drawn-flat-healthy-food-logo_23-2149632253.jpg?w=740&t=st=1694686244~exp=1694686844~hmac=e277b65fce20e0ed8d8abbd6e61c1ec823a779ca5b587be114ed31f80a5f1cac"
+              style="width: 185px;" alt="logo">
+            </div>
+          </div>
+
+          <img src="{{ i.7 }}" class="card-img-top" alt="{{i.0}}" />
+        
+          <div class="card-body">
+            <div class="d-flex justify-content-between">
+              {% if allfood.FoodID %}
+              <a href="{% url 'view_food' FoodID=allfood.FoodID %}" class=" text-decoration-none"> <p class="small font-weight-bold text-decoration-underline">{{i.1}}</p></a>
+              {% else %}
+              <a href="{% url 'index' %}" class=" text-decoration-none"> <p class="small font-weight-bold text-decoration-underline">{{i.1}}</p></a>
+          {% endif %}
+            </div>
+
+
+            
+
+            <div class="d-flex justify-content-between mb-2">
+              <h4 class="text-muted mb-0">{{i.0}}</h4>
+              
+            </div>
+
+        
+          </div>
+        </div>
+      </div>
+      
+      {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+</section>
+<style>
+  .gradient-custom-2 {
+    background:#4CAF50;
+    }
+    .card {
+      /* Add some styles to define the card's size and appearance */
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 10px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+  
+    .card img {
+      /* Set the maximum width and height for the image */
+      max-width: 100%;
+      max-height: 200px; /* Adjust this value as needed to control the image height */
+      display: block;
+      margin: 0 auto; /* Center the image horizontally within the card */
+      object-fit: cover; /* Ensure the image covers the entire container without distortion */
+    }
+  
+</style> 
+{% endblock content %}

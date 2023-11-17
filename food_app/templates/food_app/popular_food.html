@@ -1,0 +1,89 @@
+{% extends 'core/base.html'%}
+  {% load static%}
+  {% block title %} Popular Food {% endblock title %}
+  {% block content %}
+  <div  style="background-color: #fff;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="d-flex justify-content-center mt-5" style="color:#4CAF50"> FOODLAND : USER'S POPULAR CHOICES</h1>
+            </div>
+        </div>
+    <section style="background-color:#fff;">
+          <div class="container py-5">
+            <div class="row">
+              {% for fid, name, num_of_ratings, ratings,category,calories,image,ingredients in food_data %}
+              <div class="col-md-6 col-lg-4 py-2 mb-4 mb-md-0">
+                <div class="card">
+                  <div class="d-flex justify-content-between p-3">
+                   <div class="bg-info rounded-circle d-flex align-items-center justify-content-center shadow-1-strong"
+                      style="width: 100px; height: 100px;">
+                      <img src="https://img.freepik.com/free-vector/food-drink-hand-drawn-flat-healthy-food-logo_23-2149632253.jpg?w=740&t=st=1694686244~exp=1694686844~hmac=e277b65fce20e0ed8d8abbd6e61c1ec823a779ca5b587be114ed31f80a5f1cac"
+                      style="width: 185px;" alt="logo">
+                    </div>
+                  </div>
+    
+                  <img src="{{ image }}" class="card-img-top" alt="{{name}}" />
+                
+                  <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                      <p class="small font-weight-bold text-decoration-underline">{{category}}</p>
+                      
+                    </div>
+        
+                    <div class="d-flex justify-content-between mb-3">
+                      {% if fid %}
+    
+                      <a href="{% url 'view_food' FoodID=fid %}" class=" text-decoration-none"><h5 style="color:#4CAF50">{{name}}</h5></a>
+                      {% else %}
+                      <a href="{% url 'popular_food'%}">{{food_item.FoodName}}</a>
+                      {% endif %}
+                     
+                    </div>
+                    <div class="d-flex justify-content-between mb-2">
+                      <p class="text-muted mb-2">Total Ratings: <span class="fw-bold">{{num_of_ratings}}</span></p>
+                      </div>
+                    <div class="d-flex justify-content-between mb-2">
+                      <p class="text-muted mb-0">Average Ratings : <span class="fw-bold">{{ratings|floatformat:2 }}</span></p>
+                     </div>
+                    <form method="post" action="{% url 'popular_food' %}">
+                    {% csrf_token %}
+                    <input type="hidden" name="food_id" value="{{ fid }}">
+                    <div class="d-flex align-items-center">
+                        <label for="rating" class="text-muted mr-2"> Rate Food:</label>
+                        <input type="number" name="rating" id="rating" min="1" max="10" step="1" class="form-control w-50 m-2">
+                        <button type="submit" onclick="redirectToPopularFood()" style="background-color: #4CAF50; color: white; border:none; padding: 10px 10px; cursor: pointer;" class="ml-2 rounded ">Submit</button>
+                    </div>
+                </form>
+                
+                  </div>
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+          </div>
+        </section>
+    </div>    
+
+    <style>
+      .card {
+        /* Add some styles to define the card's size and appearance */
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 10px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+    
+      .card img {
+        /* Set the maximum width and height for the image */
+        max-width: 100%;
+        max-height: 200px; /* Adjust this value as needed to control the image height */
+        display: block;
+        margin: 0 auto; /* Center the image horizontally within the card */
+        object-fit: cover; /* Ensure the image covers the entire container without distortion */
+      }
+    </style>
+
+    {% endblock content %}
+
+

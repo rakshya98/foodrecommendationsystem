@@ -1,0 +1,33 @@
+{% extends 'core/base.html'%}
+{% load static%}
+{% block title %}  Error {% endblock title %}
+{% block content %}
+<div class="container">
+<div class="row">
+            <div class="col-md-12">
+              <h1>We're sorry , we couldn't provide the recommendation for the food.</h1>
+              <h4>Looking for another food suggestion ? Try Again  </h4>
+               
+                <form action="/recommend_food/" method="post">
+                    {% csrf_token %}
+                    <input name="food_user_input" type="text" class="form-control"><br>
+                    <input type="submit" class="btn btn-lg btn-success">
+                </form>
+            </div>
+        </div>  
+
+    {% if data %}
+    {% for i in data %}
+    <div class="col-md-3" style="margin-top:50px">
+      <div class="card">
+        <div class="card-body">
+          <p> {{i.0}}</p>
+          <h2>{{i.1}}</h1>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+
+{% endif %}
+{% endblock content %}
+  

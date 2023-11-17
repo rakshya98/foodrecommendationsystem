@@ -1,0 +1,1014 @@
+FoodID,FoodName,ServingSize,Carbs(g),Fat(g),Protein(g),Total Calories(Cal),Category,Ingredients,Image,Type,Veg_NonVeg
+1,Banana Pancake,1 piece,24,4,8,167,Nepali,"1 cup all-purpose flour,1 ripe banana mashed,1 cup milk,1 egg, 2 tablespoons sugar,1 teaspoon baking powder,Pinch of salt,Butter or oil for cooking",https://meaningfuleats.com/wp-content/uploads/2014/06/banana-oatmeal-pancakes.jpg,Breakfast,Veg
+2,Veggie Momo,10 pieces,6,2,1,200,Nepali,"1 cup all-purpose flour
+Water for kneading
+1 cup mixed vegetables (cabbage, carrot, bell peppers, etc.), finely chopped
+1 small onion, finely chopped
+2 cloves garlic, minced
+1-inch piece ginger, minced
+1 tablespoon vegetable oil
+Salt and pepper to taste
+Soy sauce for serving
+",https://c.ndtvimg.com/2022-07/9lta8l_veg-momo_120x90_06_July_22.png?downsize=200:155,Snack,Veg
+3,Daal Bhhat Tarkari,2 cups,66,2,15,367,Nepali,"1 cup red lentils (masoor dal)
+4 cups water
+1 small onion, finely chopped
+2 cloves garlic, minced
+1-inch piece ginger, minced
+1 tomato, chopped
+1 teaspoon turmeric powder
+1 teaspoon cumin seeds
+1 tablespoon vegetable oil
+Salt to taste
+1 cup Basmati rice
+2 cups waterAssorted vegetables (potato, carrot, cauliflower, green beans, etc.), chopped
+1 small onion, finely chopped
+2 cloves garlic, minced
+1-inch piece ginger, minced
+2 tomatoes, chopped
+1 teaspoon turmeric powder
+1 teaspoon cumin powder
+1 teaspoon coriander powder
+1 tablespoon vegetable oil
+Salt to taste
+Water as needed",https://media.gettyimages.com/id/1373260184/photo/nepali-dal-bhat-tarkari-patan-durbar-square-lalitpur-nepal.jpg?s=612x612&w=0&k=20&c=ETmyqRmDF1p3OH5g2hutyPhTSklxP0eK_bbWizAOEAc=,Dinner,Veg
+4,Selroti,1 piece,12,8.4,0.6,123,Nepali,"2 cups rice flour
+1 cup powdered sugar
+1 ripe banana, mashed
+1/2 cup yogurt
+1/2 teaspoon baking powder
+A pinch of cardamom powder
+Vegetable oil for deep frying
+",https://washburnreview.org/wp-content/uploads/2023/03/sel-roti.jpeg, Breakfast,Veg
+5,Onion Pakoda,100g,26,14,9,266,Nepali,"1 cup chickpea flour (besan)
+1 large onion, thinly sliced
+1 green chili, finely chopped (optional)
+1 teaspoon cumin seeds
+A pinch of baking soda (optional)
+1/2 teaspoon red chili powder
+1/2 teaspoon turmeric powder
+Salt to taste
+Water as needed
+Vegetable oil for deep frying",https://media.gettyimages.com/id/1052745482/photo/veggie-pakora.jpg?s=612x612&w=0&k=20&c=q4qLdsDSBLfSyJo46bJEZhnIuSygByJ2E5Q3S8xwu0U=,Snack,Veg
+6,Bara,1 piece,19.3,5.2,3.8,138,Nepali,"1 cup black lentils (urad dal), soaked overnight
+1 small onion, finely chopped
+2 green chilies, finely chopped
+2 cloves garlic, minced
+1-inch piece ginger, minced
+1/2 teaspoon cumin powder
+1/2 teaspoon turmeric powder
+1/2 teaspoon red chili powder
+Salt to taste
+Vegetable oil for shallow frying","https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_744,ar_5:4/v1/img/recipes/52/71/73/5M1NG6h3SIKGKlhhKM9f_Nepali%2520Bara.jpg",Snack,Veg
+7,Chowmein,75g,56,10,10,260,Nepali,"200g  noodles
+2 tablespoons vegetable oil
+1 small onion, thinly sliced
+1 cup mixed vegetables (carrots, cabbage, bell peppers, etc.), julienned
+2 cloves garlic, minced
+2 tablespoons soy sauce
+1 tablespoon oyster sauce
+Salt and pepper to taste
+Green onions for garnish (optional)",https://media.gettyimages.com/id/184317874/photo/beef-broccoli-chow-mein.jpg?s=612x612&w=0&k=20&c=9be_amD3HYfFBiFhQxeb-AvHDFE4_e_8q_IRAusJ4TY=, Dinner,Veg
+8,Noodles,106g,24.9,3.1,10,234,Nepali,"200g egg noodles or any noodles of your choice
+2 tablespoons vegetable oil
+1 small onion, thinly sliced
+1 cup mixed vegetables (carrots, cabbage, bell peppers, etc.), julienned
+2 cloves garlic, minced
+2 tablespoons soy sauce
+1 tablespoon oyster sauce
+Salt and pepper to taste
+Green onions for garnish (optional)",https://media.gettyimages.com/id/1183748291/photo/spaghetti-bolognese.jpg?s=612x612&w=0&k=20&c=6C1hQBNfStq9bA8AOoHUhMgGZ_1JpNPJ-9n9PbMTZgk=,Dinner,Veg
+9,Chicken Momo,10 pieces,70,30,50,710,Nepali,"250g minced chicken
+1 small onion, finely chopped
+2 cloves garlic, minced
+1-inch piece ginger, minced
+1 tablespoon vegetable oil
+1/2 teaspoon cumin powder
+1/2 teaspoon coriander powder
+1/2 teaspoon garam masala
+Salt and pepper to taste
+Chopped cilantro for garnish (optional)",https://media.gettyimages.com/id/1341504203/photo/fried-momos-dumpling.jpg?s=612x612&w=0&k=20&c=mCUGBqUZw1M7Eu8Bh232by22Q5xKuhJkPG1h6BenbRs=,Snack,Non-Veg
+10,Chicken Curry,100g,13,5,26,165,Nepali,"500g chicken pieces, cleaned and washed
+2 tablespoons vegetable oil
+1 large onion, finely chopped
+2 tomatoes, chopped
+2 cloves garlic, minced
+1-inch piece ginger, minced
+1 teaspoon cumin powder
+1 teaspoon coriander powder
+1/2 teaspoon turmeric powder
+1/2 teaspoon red chili powder (adjust to your spice preference)
+1/2 teaspoon garam masala
+Salt to taste
+Fresh cilantro for garnish (optional)",https://media.gettyimages.com/id/1415994593/photo/chicken-curry.jpg?s=612x612&w=0&k=20&c=QQsCGCC22fuuM_KpiLio-drGgVCDwUPcFcm5CJuyMxc=,Dinner,Non-Veg
+11,White Soyabeans,40g,19.9,2,8.1,64,Nepali,"White soybeans
+Water
+Salt",https://www.vidhyashomecooking.com/wp-content/uploads/2020/04/Easysoybeancurry.jpg,Dinner,Veg
+12,Cucumber Pickle,15g,1.2,1,0.3,16,Nepali,"Cucumbers, thinly sliced
+Mustard oil
+Fenugreek seeds
+Turmeric powder
+Red chili powder
+Salt
+Vinegar or lemon juice",https://foodsofnepal.com/wp-content/uploads/2020/12/Picture11-768x576.jpg,Side Dish,Veg
+13,Nepali Instant Noodles,1 unit,46,15,7.5,353,Nepali,"Wai Wai noodles
+2 tablespoons vegetable oil
+1 small onion, thinly sliced
+1 cup mixed vegetables (carrots, cabbage, bell peppers, etc.), julienned
+2 cloves garlic, minced
+2 tablespoons soy sauce
+1 tablespoon oyster sauce
+Salt and pepper to taste
+Green onions for garnish (optional)",https://omgnepal.com/wp-content/uploads/2017/11/wai-wai-6788a6a78b-768x430.jpg,Snack,Veg
+14,Aloo Tama,150g,20,8,5,180,Nepali,"Bamboo shoots (tama), soaked and sliced
+Potatoes, peeled and diced
+Vegetable oil
+Turmeric powder
+Cumin seeds
+Dry red chilies
+Garlic, minced
+Ginger, minced
+Green chilies, sliced (optional)
+Salt
+Water",https://www.slurrp.com/web/_next/image?url=https%3A%2F%2Fimages.slurrp.com%2Fprod%2Frecipe_images%2Ftranscribe%2Fmain%20course%2FAloo-tama.webp%3Fimpolicy%3Dslurrp-20210601%26width%3D1200%26height%3D675&w=1200&q=75,Dinner,Veg
+15,Dhindo,100g,25,2,4,130,Nepali,"Buckwheat flour or millet flour (makkai ko atta)
+Water
+Salt",https://steemitimages.com/640x0/https://cdn.steemitimages.com/DQmdyNHvN5LcGQMV9sctpxQwEugU7o33VNk1ADpv2qi6ypM/dhindo-set.jpg,Dinner,Veg
+16,Yomari,100g,40,5,5,250,Nepali,"Rice flour
+Water
+Chaku (molasses or brown sugar)
+Grated coconut
+Ghee (clarified butter)",https://cdn.stunningnepal.com/wp-content/uploads/2019/11/Yomari-768x768.jpg,Dessert,Veg
+17,Tomato Achar,107g,7.5,3,1.8,62,Nepali,"Ripe tomatoes, chopped
+Onion, finely chopped
+Garlic, minced
+Ginger, minced
+Green chilies, sliced
+Mustard oil
+Fenugreek seeds
+Cumin powder
+Turmeric powder
+Red chili powder
+Vinegar or lemon juice
+Salt",https://fulltimeexplorer.com/wp-content/uploads/2020/07/Nepali-Tomato-Achar-Recipe-Step-by-Step-Instructions-IMG_5084-500x500.jpg, Side Dish,Veg
+18,Choyela,100g,,10,20,250,Nepali,"Boneless chicken, thinly sliced (traditionally, it is made with water buffalo meat)
+Mustard oil
+Ginger-garlic paste
+Timur (Szechuan pepper) powder
+Turmeric powder
+Red chili powder
+Cumin powder
+Salt
+Lemon juice",https://english.khabarhub.com/wp-content/uploads/2020/10/Chicken-Choyela.jpg,Snack,Veg
+19,Chatamari,1 piece,25,5,5,175,Nepali,"Rice flour
+Water
+Ground meat (chicken or mutton)
+Onions, finely chopped
+Tomatoes, finely chopped
+Green chilies, finely chopped
+Ginger-garlic paste
+Cumin powder
+Turmeric powder
+Red chili powder
+Salt
+Oil",https://newarirecipeshut.com/wp-content/uploads/2020/09/chatamari-768x512.jpg,Snack,Veg
+20,Kwati,1 cup,25,1,10,175,Nepali,"Mixed beans (black-eyed beans, kidney beans, chickpeas, green gram, etc.)
+Water
+Oil
+Garlic, minced
+Ginger, minced
+Turmeric powder
+Cumin powder
+Chili powder
+Asafoetida (hing)
+Salt
+Ghee (clarified butter)",https://pulses.org/images/com_yoorecipe/cropped-Sikkim_kwati-1243.jpg,Dinner,Veg
+21,Chana Puri,300g,70,25,15,500,Nepali,"Chickpeas (Chana), soaked and cooked
+Wheat flour
+Water
+Oil
+Salt
+Spices (cumin powder, coriander powder, red chili powder, etc.) - optional",https://img-global.cpcdn.com/recipes/ba32bb43f08638f1/1360x964cq70/masala-poori-with-white-chana-recipe-main-photo.webp,Breakfast,Veg
+22,Samosa,1 piece,30,10,5,250,Nepali,"All-purpose flour (Maida)
+Potatoes, boiled and mashed
+Peas
+Onions, finely chopped
+Green chilies, finely chopped
+Ginger, grated
+Cumin seeds
+Garam masala
+Turmeric powder
+Coriander leaves, chopped
+Salt
+Oil",https://www.cookwithnabeela.com/wp-content/uploads/2023/06/AlooSamosa3-768x768.webp,Snack,Non-Veg
+23,Aloo Paratha,100g,40,15,6,300,Nepali,"Whole wheat flour (Atta)
+Potatoes, boiled and mashed
+Onions, finely chopped (optional)
+Green chilies, finely chopped (optional)
+Ginger, grated (optional)
+Coriander leaves, chopped (optional)
+Cumin seeds
+Red chili powder
+Garam masala
+Turmeric powder
+Salt
+Ghee (clarified butter)",https://www.homemakerjob.com/wp-content/uploads/2022/09/Punjabi-aloo-alu-paratha-recipe-dhaba-style-photo-image-by-homemakerjob.com_.jpg, Breakfast,Veg
+24,Thukpa,350g,45,10,15,270,Nepali,"Noodles (any type like wheat, rice, or egg noodles)
+Chicken, beef, or vegetables (carrots, cabbage, bell peppers, etc.), thinly sliced
+Onion, finely chopped
+Garlic, minced
+Ginger, grated
+Green chilies, finely chopped (optional)
+Turmeric powder
+Cumin powder
+Soy sauce
+Salt
+Oil
+Water or chicken/vegetable broth
+Fresh cilantro, chopped
+Lemon juice",https://c.ndtvimg.com/2023-05/740b45a8_thupka_625x300_16_May_23.jpg,Dinner,Non-Veg
+25,Gundruk,1 cup,7,4,5,70,Nepali,"Leafy greens (usually mustard greens or radish greens)
+Turmeric powder
+Asafoetida (hing)
+Salt",https://healthytraditionalfood.files.wordpress.com/2020/09/img_5765.jpg,Dinner,Veg
+26,Aloo Chop,1 piece,10,6,2,100,Nepali,"Potatoes, boiled and mashed
+Onions, finely chopped
+Green chilies, finely chopped
+Ginger, grated
+Turmeric powder
+Red chili powder
+Garam masala
+Salt
+Bread crumbs
+Oil for frying",https://i0.wp.com/myyellowapron.com/wp-content/uploads/2022/04/aloo-chop-recipe-oriya-style8.jpeg?resize=768%2C1156&ssl=1,Snack,Veg
+27,Sikarni,100g,15,10,5,150,Nepali,"Yogurt
+Sugar or honey
+Fresh fruits (such as bananas, apples, oranges, etc.), chopped
+Ground cardamom
+Chopped nuts (almonds, pistachios, cashews)
+Raisins",https://actionagainsthunger.ca/cms/wp-content/uploads/2016/03/sikarni5.jpg,Dessert,Veg
+28,Vegetable Macaroni,1 cup,19,10,4,174,Nepali,"Macaroni pasta
+Assorted vegetables (carrots, bell peppers, peas, corn, etc.), chopped
+Onion, finely chopped
+Garlic, minced
+Tomato, finely chopped
+Tomato sauce or ketchup
+Soy sauce
+Red chili sauce (optional)
+Salt
+Oil",https://www.gimmesomeoven.com/wp-content/uploads/2012/08/Roasted-Vegetable-Mac-and-Cheese-Recipe-1.jpg,Dinner,Veg
+29,Fapar Roti,100 g,70,5,12,350,Nepali,"Buckwheat flour or millet flour (makkai ko atta)
+Water
+Salt
+Ghee (clarified butter)",http://lh3.ggpht.com/FQY4D1k-W1OVUCqGJm3eCqPTZhfqXD83u5RjLOsVB5iTFiKXYbzWhFIHm0MBClOQt3OVWfK9hGCYqKNw_EObVa4Kaw=s800, Dinner,Veg
+30,Sewai,100g,70,2,6,380,Nepali,"Vermicelli (sewai)
+Milk
+Sugar
+Ghee (clarified butter)
+Assorted nuts (almonds, pistachios, cashews, raisins)
+Saffron strands (optional)
+Cardamom powder",https://4.bp.blogspot.com/-DuT9FC2C3VY/UVKvhwUkhJI/AAAAAAAAC_U/lzw2kfrtHZc/s400/image_1+(1).jpg,Dessert,Veg
+31,Chickepea Curry,1 cup,40,5,10,240,Pakistani,"Chickpeas (chana), soaked and boiled
+Onion, finely chopped
+Tomatoes, finely chopped
+Ginger-garlic paste
+Green chilies, slit
+Turmeric powder
+Cumin powder
+Coriander powder
+Garam masala
+Red chili powder
+Salt
+Oil
+Fresh cilantro, chopped",https://poshjournal.com/wp-content/uploads/2022/06/chickpea-curry-recipe-10.jpg, Dinner,Veg
+32,Chapli Kebab,50g,5,10,10,155,Pakistani,"Ground meat (beef or lamb)
+Onion, finely chopped
+Tomato, finely chopped
+Green chilies, finely chopped
+Fresh cilantro, chopped
+Ginger-garlic paste
+Coriander powder
+Cumin powder
+Red chili powder
+Garam masala
+Egg
+Tomatoes, sliced (for garnish)
+Oil",https://i0.wp.com/fatimacooks.net/wp-content/uploads/2022/06/chapli-kabab.png?resize=540%2C720&ssl=1,Snack,Non-Veg
+33,Nihari,250g,15,20,30,420,Pakistani,"Beef or lamb shank, cut into pieces
+Onion, finely chopped
+Ginger-garlic paste
+Wheat flour (atta)
+Turmeric powder
+Red chili powder
+Coriander powder
+Cumin powder
+Garam masala
+Bone marrow (optional)
+Oil or ghee (clarified butter)
+Water or beef/lamb broth
+Fresh cilantro, chopped (for garnish)
+Ginger julienne (for garnish)
+Lemon wedges",https://static01.nyt.com/images/2023/03/01/multimedia/01BEEF-STEWrex4-oxtail-nihari--qvmh/01BEEF-STEWrex4-oxtail-nihari--qvmh-superJumbo.jpg,Dinner,Non-Veg
+34,Haleem,1 cup,40,10,15,320,Pakistani,"Bone-in mutton or chicken, cooked and shredded
+Wheat or barley, soaked and cooked until soft
+Lentils (chana dal, moong dal, masoor dal), soaked and cooked until soft
+Rice, soaked and cooked until soft
+Onion, finely chopped and fried until golden brown (for garnish)
+Ginger-garlic paste
+Turmeric powder
+Red chili powder
+Garam masala
+Coriander powder
+Cumin powder
+Oil or ghee (clarified butter)
+Water or meat broth
+Fresh cilantro, chopped (for garnish)
+Ginger julienne (for garnish)
+Lemon wedges",https://www.licious.in/blog/wp-content/uploads/2022/04/Chicken-Haleem-Cooked-min-compressed-1024x683.jpg,Dinner,Non-Veg
+35,Seekh Kebab,1 kebab,1,10,10,170,Pakistani,"Ground meat (beef, lamb, or chicken)
+Onion, finely chopped
+Green chilies, finely chopped
+Ginger-garlic paste
+Fresh cilantro, chopped
+Cumin powder
+Coriander powder
+Red chili powder
+Garam masala
+Salt
+Skewers (metal or bamboo)
+Oil or ghee (clarified butter)",https://c.ndtvimg.com/2020-01/a39okhfk_620_625x300_21_January_20.jpg,Snack,Non-Veg
+36,Biryani,200g,50,10,10,350,Pakistani,"Basmati rice
+Chicken, mutton, or vegetables
+Onion, thinly sliced and fried until golden brown (for garnish)
+Yogurt
+Ginger-garlic paste
+Garam masala
+Red chili powder
+Turmeric powder
+Cumin powder
+Coriander powder
+Saffron strands soaked in milk (for biryani rice layer)
+Fresh cilantro and mint leaves, chopped
+Ghee (clarified butter)
+Oil
+Water or chicken/mutton broth
+Lemon wedges",https://www.licious.in/blog/wp-content/uploads/2020/12/Hyderabadi-chicken-Biryani.jpg,Dinner,Non-Veg
+37,Chicken Tikka,100g,4,5,25,160,Pakistani,"Chicken, cut into pieces
+Yogurt
+Ginger-garlic paste
+Garam masala
+Red chili powder
+Turmeric powder
+Cumin powder
+Coriander powder
+Lemon juice
+Oil or ghee (clarified butter)
+Skewers (metal or bamboo)",https://www.flavorquotient.com/wp-content/uploads/2020/04/Chicken-Tikka-FQ-4-1-of-1.jpg,Snack,Non-Veg
+38,Chapli Kebab,50g,5,10,10,150,Pakistani,"500 grams (1 lb) ground meat (beef, lamb, or a combination of both)
+1 medium-sized onion, finely chopped
+2 tomatoes, finely chopped
+2-3 green chilies, finely chopped
+1/4 cup fresh cilantro, chopped
+1/4 cup fresh mint leaves, chopped
+1 tablespoon ginger-garlic paste
+1 teaspoon coriander powder
+1 teaspoon cumin powder
+1 teaspoon red chili powder (adjust to your preferred level of spiciness)
+1/2 teaspoon turmeric powder
+1/2 teaspoon garam masala
+1 egg
+1/4 cup besan (gram flour) or cornmeal
+Salt, to taste
+Cooking oil, for frying",https://i0.wp.com/fatimacooks.net/wp-content/uploads/2022/06/chapli-kabab.png?resize=540%2C720&ssl=1, Snack,Non-Veg
+39,Sindhi Biryani,300g,60,10,10,450,Pakistani,"Basmati rice
+Bone-in mutton or chicken, cut into pieces
+Onion, thinly sliced and fried until golden brown (for garnish)
+Yogurt
+Ginger-garlic paste
+Garam masala
+Red chili powder
+Turmeric powder
+Cumin powder
+Coriander powder
+Mint leaves, chopped
+Fresh cilantro, chopped
+Green chilies, slit
+Ghee (clarified butter)
+Oil
+Water or mutton/chicken broth
+Lemon wedges",https://www.sanjeevkapoor.com/UploadFiles/RecipeImages/Sindhi-Biryani---SK-Khazana.jpg,Dinner,Veg
+40,Ema Datshi,200g,9,20,8,280,Bhutanese,"Green chilies (preferably Bhutanese or Thai chilies)
+Cheese (Bhutanese yak cheese or any mild cheese)
+Onion, thinly sliced
+Garlic, minced
+Salt
+Water or broth",https://www.dailybhutan.com/pub_files/00030307894626/how-to-make-your-own-ema-datshi-chilli-cheese-in-10-minutes_1560.jpg,Dinner,Non-Veg
+41,Jasha Maroo,200g,6,15,25,260,Bhutanese,"Chicken, cut into pieces
+Onions, thinly sliced
+Garlic, minced
+Ginger, grated
+Tomatoes, chopped
+Green chilies, slit
+Dried red chilies
+Turmeric powder
+Red chili powder
+Sichuan pepper powder (timur)
+Salt
+Water or chicken broth
+Cooking oil",https://visa-help.com/wp-content/uploads/2020/04/mary.jpg,Dinner,Veg
+42,Suja,240ml,0,8,0,80,Bhutanese,"Black tea leaves (Pemagul or similar)
+Water
+Salt
+Butter (traditionally yak butter, but you can use regular butter)
+Milk or milk powder (optional)
+Sugar (optional)",https://img-global.cpcdn.com/recipes/2abe6abe69433224/1360x964cq70/cameroon-suja-recipe-main-photo.webp,Beverage,Veg
+43,Hoentay,150g,25,10,15,250,Bhutanese,"For the dough:
+
+All-purpose flour
+Water
+For the filling:
+
+Ground meat (beef, pork, or a combination)
+Cabbage, finely chopped
+Onions, finely chopped
+Garlic, minced
+Ginger, grated
+Green chilies, finely chopped
+Coriander leaves, chopped
+Salt
+Sichuan pepper powder (timur)
+Cooking oil",https://yeshirunsforfood.files.wordpress.com/2019/11/60162179_122488352281151_6872747027007920246_n.jpg,Dessert,Veg
+44,Kewa Datshi,200g,20,15,8,240,Bhutanese,"Potatoes, peeled and cut into cubes
+Bhutanese cheese (datshi), crumbled (you can use any mild cheese like feta or farmer's cheese as a substitute)
+Onion, thinly sliced
+Green chilies, slit
+Garlic, minced
+Cooking oil or butter
+Water or vegetable broth
+Salt",https://i.ytimg.com/vi/RqkeIaQ7C5U/hqdefault.jpg,Dinner,Veg
+45,Red Rice,200g,40,1,5,180,Bhutanese,"Bhutanese red rice (alternatively, you can use any short-grain rice with a nutty flavor)",https://visa-help.com/wp-content/uploads/2020/04/red-rice.jpg,Dinner,Veg
+46,Khur-le,50g,10,3,2,80,Bhutanese,"Buckwheat flour
+Water
+Salt
+Cooking oil",https://wfg32p.s3.amazonaws.com/media/dishes/khur-le_5939-reg.jpg,Breakfast,Veg
+47,Datshi,200g,10,25,15,300,Bhutanese,"Leftover cooked rice
+Water or milk
+Butter or cooking oil
+Salt",https://assets.traveltriangle.com/blog/wp-content/uploads/2018/10/Zow-Shungo.jpg,Dinner,Veg
+48,Shakam Paa,200g,5,25,30,380,Bhutanese,"Dried beef or yak meat, soaked and cut into small pieces
+Onions, thinly sliced
+Garlic, minced
+Ginger, grated
+Green chilies, slit
+Dried red chilies
+Turmeric powder
+Red chili powder
+Sichuan pepper powder (timur)
+Salt
+Water or beef broth
+Cooking oil",https://assets.traveltriangle.com/blog/wp-content/uploads/2018/10/Shakam-Paa.jpg,Dinner,Non-Veg
+49,Fihunu Mas,150g,20,5,30,150,Maldivian,"Fish fillets (traditionally tuna, but you can use any firm white fish)
+Garlic, minced
+Ginger, grated
+Curry leaves, chopped
+Turmeric powder
+Red chili powder
+Salt
+Lemon juice or vinegar
+Cooking oil",https://static.finmail.com/wp-content/uploads/2021/10/22213020/maxresdefault-2-600x338.jpg, Dinner,Veg
+50,Hedhikaa,20g,10,5,2,100,Maldivian,"All-purpose flour
+Water
+Grated coconut
+Sugar
+Cooking oil",https://live.staticflickr.com/7037/27277581401_232d10f84e_b.jpg,Snack,Non-Veg
+51,Bis Keemiya,40g,15,10,5,150,Maldivian,"Ingredients:
+For the dough:
+
+All-purpose flour
+Water
+Salt
+For the filling:
+
+Cabbage, finely chopped
+Carrots, grated
+Onions, finely chopped
+Garlic, minced
+Ginger, grated
+Green chilies, finely chopped
+Curry leaves, chopped
+Turmeric powder
+Red chili powder
+Salt
+Cooking oil",https://static.finmail.com/wp-content/uploads/2021/04/06142412/spring-roll-egg-roll-1-1.jpg,Snack,Veg
+52,Mashuni,200g,10,10,15,200,Maldivian,"Canned tuna or fresh tuna, cooked and flaked
+Grated coconut
+Onion, finely chopped
+Green chilies, finely chopped
+Curry leaves, chopped
+Lime or lemon juice
+Salt","https://static.wixstatic.com/media/0d9289_3e864bd4f21d43e1a96a801f712b4d3c~mv2.jpg/v1/fill/w_680,h_476,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/0d9289_3e864bd4f21d43e1a96a801f712b4d3c~mv2.jpg",Dinner,Veg
+53,Mas Huni,200g,15,10,10,200,Maldivian,"For the dough:
+
+All-purpose flour
+Water
+Salt
+Cooking oil
+For the filling:
+
+Canned tuna or fresh tuna, cooked and flaked
+Grated coconut
+Onions, finely chopped
+Green chilies, finely chopped
+Curry leaves, chopped
+Turmeric powder
+Red chili powder
+Salt
+Cooking oil",https://www.holidify.com/images/cmsuploads/compressed/masroshi_20180726111905.JPG,Breakfast,Veg
+54,Garudhiya,250g,10,5,30,200,Maldivian,"Fish (traditionally tuna, but any firm white fish can be used)
+Water
+Salt
+Freshly ground black pepper
+Lime or lemon juice
+Curry leaves
+Garlic, minced
+Ginger, grated
+Onion, thinly sliced
+Green chilies, slit",https://www.holidify.com/images/cmsuploads/compressed/garudhiya_20180726111600.jpg,Dinner,Veg
+55,Huni Roshi,50g,20,10,5,200,Maldivian,"All-purpose flour
+Grated coconut
+Water
+Salt
+Cooking oil",https://lonumedhu.com/sites/default/files/HuniRoshiSmall.jpg,Breakfast,Veg
+56,Kabuli Pulao,1 cup,55,10,15,380,Afghani,"Basmati rice
+Lamb or mutton, cut into pieces
+Onions, thinly sliced
+Garlic, minced
+Ginger, grated
+Carrots, julienned
+Raisins
+Cooking oil or ghee
+Water or lamb/mutton broth
+Ground spices (cinnamon, cardamom, cloves)
+Salt",https://afghancooks.com/wp-content/uploads/2022/07/IMG_0858_jpg-1024x576.jpg.webp,Dinner,Non-Veg
+57,Mantu,5 pieces,40,10,15,320,Afghani,"For the dough:
+
+All-purpose flour
+Water
+Salt
+For the filling:
+
+Ground beef or lamb
+Onions, finely chopped
+Garlic, minced
+Ginger, grated
+Ground spices (cumin, coriander, paprika)
+Black pepper
+Salt
+Cooking oil
+For the topping:
+
+Yogurt
+Garlic, minced
+Dried mint
+Ground paprika",https://cookingcounty.com/wp-content/uploads/2022/01/mantu-recipe.jpg,Dinner,Veg
+58,Bolani,1 piece,25,10,5,200,Afghani,"For the dough:
+
+All-purpose flour
+Water
+Salt
+Cooking oil
+For the filling:
+
+Potatoes, boiled and mashed
+Green onions, finely chopped
+Fresh cilantro, chopped
+Ground coriander
+Ground cumin
+Salt
+Cooking oil",https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bolani.jpg/1024px-Bolani.jpg,Dinner,Veg
+59,Bolani Kachaloo,1 piece,35,10,5,250,Afghani,"For the dough:
+
+All-purpose flour
+Water
+Salt
+Cooking oil
+For the filling:
+
+Potatoes, boiled and mashed
+Onions, finely chopped
+Garlic, minced
+Green chilies, finely chopped
+Ground coriander
+Ground cumin
+Salt
+Cooking oil",https://i0.wp.com/tarasmulticulturaltable.com/wp-content/uploads/2020/10/Bolani-Kadoo-Afghan-Pumpkin-Stuffed-Flatbread-5-of-5.jpg?resize=768%2C512&ssl=1,Dinner,Veg
+60,Naan,1 piece,40,5,7,250,Afghani,"All-purpose flour
+Water
+Yogurt
+Yeast
+Sugar
+Salt
+Baking powder
+Cooking oil or ghee","https://hips.hearstapps.com/hmg-prod/images/211021-delish-seo-naan-horizontal-0128-eb-1635447725.jpg?crop=0.949xw:0.911xh;0.0323xw,0.0127xh&resize=980:*",Dinner,Veg
+61,Firni,1 cup,30,10,5,220,Afghani,"Basmati rice, soaked in water for 1-2 hours
+Milk
+Sugar
+Saffron strands (optional)
+Cardamom powder
+Rose water
+Chopped nuts (almonds, pistachios) for garnish",https://www.funfoodfrolic.com/wp-content/uploads/2020/10/Phirni-1.jpg, Dessert,Veg
+62,Ashak,5 pieces,40,10,15,320,Afghani,"For the dough:
+All-purpose flour
+Water
+Salt
+
+For the filling:
+Leeks, finely chopped
+Green onions, finely chopped
+Garlic, minced
+Coriander leaves, chopped
+Ground coriander
+Ground cumin
+Salt
+Cooking oil
+
+For the topping:
+Yogurt
+Garlic, minced
+Dried mint
+Ground paprika
+",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI4V5ccwmKUSDrRkeeSqwicGrLWrIFZn80ug&usqp=CAU,Dinner,Veg
+63,Hoppers,50g,23,10,5,160,Sri Lankan,"Rice flour
+Coconut milk
+Active dry yeast (optional)
+Sugar
+Salt
+Baking soda
+Coconut oil (for greasing)",https://myloveofbaking.com/wp-content/uploads/2019/08/IMG_1036.jpg,Breakfast,Non-Veg
+64,Kottu Roti,230g,45,10,12,350,Sri Lankan,"Leftover roti or paratha, chopped into small pieces
+Vegetables (onions, carrots, cabbage, leeks), finely chopped
+Eggs (optional)
+Curry leaves
+Garlic, minced
+Ginger, grated
+Green chilies, finely chopped
+Turmeric powder
+Curry powder
+Soy sauce
+Salt
+Pepper
+Cooking oil", https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chicken_Kottu.jpg/330px-Chicken_Kottu.jpg,Dinner,Non-Veg
+65,Lamprais,300g,50,15,10,400,Sri Lankan,"For the rice:
+
+Basmati rice
+Water or chicken broth
+Cardamom pods
+Cloves
+Cinnamon stick
+For the meat and banana curry:
+
+Chicken or beef, cut into pieces
+Onions, thinly sliced
+Garlic, minced
+Ginger, grated
+Curry powder
+Chili powder (optional, for spiciness)
+Turmeric powder
+Coconut milk
+Ripe bananas, peeled and sliced
+
+For the frikkadels (meatballs):
+
+Ground beef
+Onions, finely chopped
+Garlic, minced
+Bread crumbs
+Egg
+Salt and pepper
+For the eggplant pickle:
+
+Eggplant, thinly sliced
+Vinegar
+Sugar
+Salt
+
+For wrapping:
+Banana leaves or aluminium foil",https://romandianmasala.com/wp-content/uploads/2021/07/lamprais1-768x917.jpeg,Dinner,Veg
+66,Coconut Sambol,15g,2,3,1,45,Sri Lankan,"Freshly grated coconut
+Red onions, finely chopped
+Green chilies, finely chopped
+Lime or lemon juice
+Salt
+Chili powder (optional, for spiciness)","https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/https://www.topsrilankanrecipe.com/wp-content/uploads/2017/11/7a-2-768x576.jpg", Side Dish,Veg
+67,Watalappan,100g,25,10,3,250,Sri Lankan,"Coconut milk
+Jaggery or brown sugar
+Eggs
+Cardamom powder
+Nutmeg powder
+Cashew nuts or almonds (optional, for garnish)",https://www.yovizag.com/wp-content/uploads/2016/12/Watlappan_web2.jpg,Dessert,Veg
+68,Polos Curry,200g,25,5,3,180,Sri Lankan,"Young jackfruit, boiled and cut into pieces
+Onions, thinly sliced
+Garlic, minced
+Ginger, grated
+Green chilies, slit
+Curry leaves
+Turmeric powder
+Chili powder (optional, for spiciness)
+Coconut milk
+Tamarind paste or tamarind water
+Salt
+Cooking oil","https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_800/https://foodcnr.com/wp-content/uploads/2012/11/Sri-Lankan-Polos-Curry-Recipe.jpg",Dinner,Veg
+69, Pol Sambol,15g,2,4,1,45,Sri Lankan,"Freshly grated coconut
+Red onions, finely chopped
+Dried red chilies, soaked in water
+Chili powder (optional, for extra spiciness)
+Lime or lemon juice
+Salt","https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768/https://www.topsrilankanrecipe.com/wp-content/uploads/2017/11/7a-2-768x576.jpg",Side Dish,Veg
+70,Indi Appa,5 hoppers,25,3,3,175,Sri Lankan,"Rice flour
+Water
+Salt
+Cooking oil","https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_720/https://foodcnr.com/wp-content/uploads/2011/07/indi-appa.jpg", Breakfast,Veg
+71,Mishti Doi,200g,30,10,5,250,Bengali,"Milk
+Yogurt culture or a small amount of yogurt as a starter
+Sugar
+Cardamom powder",https://bakewithshivesh.com/wp-content/uploads/2023/04/mishti-doi-800x1200.jpg, Dessert,Veg
+72,Aloo Posto,200g,30,10,5,250,Bengali,"Potatoes, peeled and cubed
+Poppy seeds (posto)
+Green chilies
+Mustard oil
+Turmeric powder
+Salt",https://i0.wp.com/onewholesomemeal.com/wp-content/uploads/2020/03/Aaloo-Posto-1.jpg?w=864&ssl=1,Dinner,Veg
+73,Shorshe Illish,100g,2g,20,25,300,Bengali,"Hilsa fish steaks or fillets
+Mustard seeds
+Green chilies
+Mustard oil
+Turmeric powder
+Salt",https://rumkisgoldenspoon.com/wp-content/uploads/2021/08/Shorshe-ilish.jpg,Dinner,Non-Veg
+74,Koshan Mangsho,200g,10,25,30,400,Bengali,"Mutton, cut into pieces
+Onions, thinly sliced
+Ginger-garlic paste
+Yogurt
+Mustard oil
+Whole garam masala (cinnamon, cloves, cardamom, bay leaf)
+Ground spices (coriander powder, cumin powder, turmeric powder, chili powder)
+Salt",https://kitchenofdebjani.com/wp-content/uploads/2022/09/Bengali-Kosha-Mangsho-Recipe-Debjanir-Rannaghar-768x768.jpg, Dinner,Veg
+75,Bhapa Doi,100g,3,12,20,220,Bengali,"Condensed milk
+Greek yogurt or hung curd
+Cardamom powder
+Saffron strands (optional)
+Chopped nuts (almonds, pistachios) for garnish",https://www.palatesdesire.com/wp-content/uploads/2022/09/bhapa-doi-recipe@palates-desire-5.jpg,Dessert,Veg
+76,Dal Makhani,240g,30,10,10,240,Indian,"Whole black lentils (urad dal)
+Red kidney beans (rajma)
+Onions, finely chopped
+Tomatoes, finely chopped
+Ginger-garlic paste
+Green chilies, finely chopped
+Butter
+Cream
+Ground spices (coriander powder, cumin powder, garam masala)
+Salt",https://www.funfoodfrolic.com/wp-content/uploads/2023/04/Dal-Makhani-1.jpg,Dinner,Veg
+77,Palak Paneer,240g,10,15,15,250,Indian,"Spinach, blanched and pureed
+Paneer (cottage cheese), cubed
+Onions, finely chopped
+Tomatoes, finely chopped
+Ginger-garlic paste
+Green chilies, finely chopped
+Garam masala
+Turmeric powder
+Cumin powder
+Cream or yogurt
+Salt
+Ghee or butter",https://shwetainthekitchen.com/wp-content/uploads/2023/02/Palak-paneer-768x1152.jpg,Dinner,Veg
+78,Masala Dosa,100g,60,10,5,340,Indian,"For the dosa batter:
+
+Rice (parboiled or raw)
+Urad dal (black gram dal)
+Fenugreek seeds
+Salt
+Water
+For the potato filling:
+
+Potatoes, boiled and mashed
+Onions, finely chopped
+Green chilies, finely chopped
+Mustard seeds
+Cumin seeds
+Turmeric powder
+Curry leaves
+Salt
+Cooking oil",https://vismaifood.com/storage/app/uploads/public/45a/29b/a17/thumb__700_0_0_0_auto.jpg,Breakfast,Veg
+79,Rasgulla,30g,15,0,1,80,Indian,"Paneer (cottage cheese) or chhena
+Sugar
+Water
+Cardamom pods
+Rose water (optional)",https://cdn.ready-market.com/101/21cd62de//Templates/pic/ANKO-Rasgulla-1.jpg?v=bc8810b4,Dessert,Veg
+80,Chicken Tikka Masala,240g,15,15,30,400,Indian,"For the chicken marinade:
+
+Chicken, cut into pieces
+Yogurt
+Ginger-garlic paste
+Ground spices (cumin powder, coriander powder, garam masala, turmeric powder, chili powder)
+Lemon juice
+Salt
+For the tomato-cream sauce:
+
+Tomatoes, pureed
+Onions, finely chopped
+Ginger-garlic paste
+Green chilies, finely chopped
+Fresh cream
+Ground spices (cumin powder, coriander powder, garam masala)
+Kasuri methi (dried fenugreek leaves)
+Salt
+Cooking oil or ghee",https://www.seriouseats.com/thmb/AKv7r-Xt2anoVvsn0WpLqUehNzU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG, Dinner,Veg
+81,Pani Puri,50g,25,10,5,200,Indian,"Puris (small, crispy hollow balls)
+Potato, boiled and mashed
+Chickpeas, boiled
+Tamarind chutney
+Green chutney (coriander and mint chutney)
+Spiced water (pani) - made with mint, tamarind, coriander, and spices
+Chaat masala
+Sev (crunchy chickpea flour noodles)",https://myvegetarianroots.com/ezoimgfmt/i0.wp.com/myvegetarianroots.com/wp-content/uploads/2020/03/DSC_0215.jpeg?resize=768%2C514&ssl=1&ezimgfmt=ngcb1/notWebP,Snack,Veg
+82,Vada Pav,150g,40,10,5,300,Indian,"For the vada (potato fritter):
+
+Potatoes, boiled and mashed
+Ginger-garlic paste
+Green chilies, finely chopped
+Curry leaves, chopped
+Mustard seeds
+Turmeric powder
+Gram flour (besan)
+Salt
+Cooking oil
+For the pav (bread rolls):
+
+Pav (soft bread rolls)
+Butter",https://www.cookwithmanali.com/wp-content/uploads/2018/04/Vada-Pav.jpg,Snack,Veg
+83,Jalebi,100g,50,10,2,350,Indian,"All-purpose flour (maida)
+Yogurt
+Baking powder
+Saffron strands (for color and flavor)
+Ghee or cooking oil (for frying)
+Sugar syrup (made with sugar, water, and cardamom)",https://www.cookwithmanali.com/wp-content/uploads/2016/10/Homemade-Jalebi.jpg, Dessert,Veg
+84,Bhel Puri,100g,30,10,5,200,Indian,"Puffed rice (murmura or mamra)
+Sev (crunchy chickpea flour noodles)
+Chopped onions
+Chopped tomatoes
+Chopped boiled potatoes
+Chopped green chilies
+Tamarind chutney
+Green chutney (coriander and mint chutney)
+Chaat masala
+Fresh coriander leaves
+Lemon juice
+Salt",https://www.indianveggiedelight.com/wp-content/uploads/2022/08/bhel-puri-new-768x1024.jpg,Snack,Veg
+85,Dahi Puri,100g,25,10,3,200,Indian,"Puris (small, crispy hollow balls)
+Potato, boiled and mashed
+Chickpeas, boiled
+Tamarind chutney
+Green chutney (coriander and mint chutney)
+Thick yogurt
+Chaat masala
+Sev (crunchy chickpea flour noodles)",https://ministryofcurry.com/wp-content/uploads/2022/07/Dahi-Puri_-4-1-850x1275.jpg,Snack,Veg
+86,Raita,1 cup,6,4,4,80,Indian,"Yogurt
+Cucumber, grated or chopped
+Tomatoes, chopped
+Onions, finely chopped
+Mint leaves, chopped
+Cumin powder
+Chaat masala
+Salt",https://www.indianveggiedelight.com/wp-content/uploads/2022/12/cucumber-raita-recipe-768x1024.jpg,Side Dish,Veg
+87,Bhindi Masala,1 cup,10,5,3,100,Indian,"Bhindi (okra), washed and dried
+Onions, thinly sliced
+Tomatoes, chopped
+Ginger-garlic paste
+Green chilies, chopped
+Turmeric powder
+Red chili powder
+Ground coriander
+Garam masala
+Amchur (dried mango powder)
+Salt
+Cooking oil",https://ministryofcurry.com/wp-content/uploads/2020/12/Bhindi-Masala-4-850x1275.jpg,Dinner,Veg
+88,Moong Dal Khichdi,1 cup,40,6,10,250,Indian,"Moong dal (yellow split lentils)
+Rice
+Ghee or cooking oil
+Cumin seeds
+Asafoetida (hing)
+Turmeric powder
+Ginger, grated
+Green chilies, chopped
+Chopped vegetables (carrots, peas, beans - optional)
+Salt
+Water",https://www.cookwithmanali.com/wp-content/uploads/2016/04/Moong-Dal-Khichdi.jpg,Dinner,Veg
+89,Vegetable Soup,1 cup,15,2,4,100,Indian,"Assorted vegetables (carrots, potatoes, peas, beans, corn, etc.)
+Onions, chopped
+Garlic, minced
+Ginger, grated
+Vegetable broth or water
+Tomato puree or chopped tomatoes
+Bay leaf
+Black pepper
+Salt
+Butter or cooking oil",https://thecozyapron.com/wp-content/uploads/2018/07/vegetable-soup_thecozyapron_1.jpg,Dinner,Veg
+90,Bhatmas Sadeko,50g,10,5,10,95,Nepali,"Soybeans (bhatmas)
+Onions, finely chopped
+Tomatoes, chopped
+Green chilies, chopped
+Fresh coriander leaves, chopped
+Ginger, grated
+Mustard oil
+Lemon juice
+Ground spices (timur, cumin powder, coriander powder, red chili powder)
+Salt",https://i0.wp.com/utsav360.com/wp-content/uploads/2019/08/Bhatmas-Sadeko.jpg?w=564&ssl=1,Snack,Veg
+91,Baingan Bharta,150g,12,10,3,150,Indian,"Eggplant (baigan)
+Onions, finely chopped
+Tomatoes, chopped
+Green chilies, chopped
+Ginger-garlic paste
+Cumin seeds
+Mustard oil
+Turmeric powder
+Red chili powder
+Ground coriander
+Garam masala
+Fresh coriander leaves
+Salt",https://www.teaforturmeric.com/wp-content/uploads/2016/12/Baingan-Bharta-3-768x1152.jpg,Dinner,Veg
+92,Tofu Bhurji,200g,10,12,15,200,Indian,"Tofu, crumbled
+Onions, finely chopped
+Tomatoes, chopped
+Green chilies, chopped
+Ginger-garlic paste
+Cumin seeds
+Turmeric powder
+Red chili powder
+Ground coriander
+Garam masala
+Fresh coriander leaves
+Salt",https://www.indianveggiedelight.com/wp-content/uploads/2022/04/tofu-bhurji-768x1024.jpg,Dinner,Veg
+93,Samay Baji,1 plate,80,15,10,500,Nepali,"Beaten rice (chiura or chiwra)
+Black soybeans (bodi)
+Fried potatoes
+Roasted meat (usually buffalo or pork)
+Boiled eggs
+Pickles (achar)
+Yogurt (dahi)
+Green leafy vegetables
+Ginger, grated
+Fresh coriander leaves
+Spiced meat (choela)
+Chutney (usually sesame or tomato-based)",https://static.finmail.com/wp-content/uploads/2021/03/23142517/1-5.jpg, Snack,Non-Veg
+94,Bara Baji,1 plate,60,15,8,400,Nepali,"All-purpose flour
+Rice flour
+Semolina (suji)
+Sugar
+Baking powder
+Fennel seeds
+Water
+Cooking oil (for frying)",https://blog.foodmandu.com/wp-content/uploads/2016/07/13177220_1341600092536043_5380185982992197136_n.jpg,Snack,Veg
+95,Juju Dhau,150g,30,5,8,200,Nepali,"Milk
+Yogurt culture or a small amount of yogurt as a starter
+Sugar
+Cardamom powder",https://scontent.fktm6-1.fna.fbcdn.net/v/t1.6435-9/31948410_1713194978773093_5660475053100236800_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=eZfa89b_Y4MAX8UxhwS&_nc_ht=scontent.fktm6-1.fna&oh=00_AfAhBJY5ZUAZ4YY3-2Qwm9MV8vp0chAwDw7SqbnAqcSDUw&oe=64F5753D,Dessert,Veg
+96,Sanya Khuna,200g,25,5,15,200,Nepali,"Meat (buffalo or pork), cut into pieces
+Onions, finely chopped
+Ginger-garlic paste
+Turmeric powder
+Red chili powder
+Ground coriander
+Garam masala
+Fresh coriander leaves
+Salt
+Cooking oil",https://i0.wp.com/recipenp.com/wp-content/uploads/2020/06/takha-2.jpg?w=640&ssl=1, Dessert,Non-Veg
+97,Ghonghi,100g,2,1,16,80,Nepali,"Fresh or frozen snails
+Onions, finely chopped
+Tomatoes, chopped
+Ginger-garlic paste
+Green chilies, chopped
+Turmeric powder
+Red chili powder
+Ground cumin
+Ground coriander
+Garam masala
+Fresh coriander leaves, chopped
+Cooking oil
+Salt to taste",https://pbs.twimg.com/media/E9pn7MnUUAM3sqp?format=jpg&name=900x900,Dinner,Non-Veg
+98,Sargemba,200g,30,1,2,120,Nepali,"Barley grains
+Water
+Yeast
+Jaggery or sugar",https://www.thegundruk.com/wp-content/uploads/2016/07/Sargemba-300x225.jpg,Dinner,Veg
+99,Gulab Jamun,50g,25,10,2,150,Nepali,"Khoya (milk solids) or milk powder
+All-purpose flour
+Baking powder
+Ghee or cooking oil (for frying)
+Sugar
+Water
+Saffron strands
+Cardamom pods
+Rose water (optional)",https://www.spiceupthecurry.com/wp-content/uploads/2020/08/gulab-jamun-recipe-1-1024x1536.jpg,Dessert,Veg
+100,Gajar Halwa,100g,40,10,2,250,Nepali,"Carrots, grated
+Milk
+Ghee or cooking oil
+Sugar
+Cardamom powder
+Chopped nuts (almonds, pistachios) for garnish",https://www.vegrecipesofindia.com/wp-content/uploads/2021/11/gajar-ka-halwa-1-736x1013.jpg,Dessert,Veg

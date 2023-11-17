@@ -1,0 +1,37 @@
+{% extends 'core/base.html' %}
+{% block title%}About Us{% endblock title%}
+{% block content%}
+<div class="container-fluid" id="about">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="d-flex justify-content-center mt-5 mb-5" style="color:#4CAF50"> FOODLAND :A FOOD INFORMATION AND RECOMMENDATION SYSTEM</h1>
+        </div>
+        <div class="row align-items-center mt-5">
+            
+            <div class="col-lg-7">
+                <h3 class="mb-4">Scope of The System</h3>
+                 <div class="row mb-3">
+              
+                  <p>The food information and recommendation system is the solution designed to provide comprehensive information about popular South Asian food . It also aims to offer recommendations of food to users based on ratings . The system basically focuses to discover diverse culinary tradition and promote healthy,tasty,convenient food along with the suggestions of highly rated food based on user preferences.</p>
+                  
+                    <ul class="list-group list-group-flush">
+            
+                          <li class="list-group-item">FoodLand will be covering popular dishes from few South Asian nations.
+                          </li>
+                        <li class="list-group-item">FoodLand will be suggesting the food items based on popularity and collaborative filtering. 
+                        </li>
+                        <li class="list-group-item">The food information will contain the nutrition level ( fat ,carbohydrate , protein and calories) of the dishes , ingredients and recipe .</li>
+                      </li>
+                      
+                      </ul>
+                    
+                </div>
+                <a href="{% url 'index' %}" class="btn btn-outline-success">View Food Items</a>
+            </div>
+            <div class="col-lg-5 pb-4 pb-lg-0">
+                <img class="img-fluid rounded w-100" src="https://media.gettyimages.com/id/1327834718/photo/overhead-view-of-young-woman-taking-photos-of-scrumptious-and-delicious-meal-on-dining-table.jpg?s=612x612&w=0&k=20&c=hWb0tGJquBzOCoFQ3eqL0xcLshc5XS9vx94fV8Tt5LI=" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}
